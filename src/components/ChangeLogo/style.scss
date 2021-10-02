@@ -1,0 +1,12 @@
+.logo {
+    max-height: 4.5rem;
+    width: fit-content;
+    cursor: pointer;
+
+    &.dark{
+        path[fill|="#29292E"]{ 
+            stroke:#fefefe;
+            fill:#fefefe;
+        }
+    }
+}
