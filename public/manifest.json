@@ -1,0 +1,53 @@
+{
+    "short_name": "Letmeask",
+    "name": "Q&A web app with personal changes.",
+    "icons": [
+      {
+        "src": "/images/icons-192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/images/icons-512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "any maskable"
+      }
+    ],
+    "start_url": "https://letmeask-b4c5e.web.app/",
+    "background_color": "#fefefe",
+    "display": "standalone",
+    "theme_color": "#fefefe",
+    "shortcuts": [
+      {
+        "name": "New room",
+        "short_name": "Create a new room",
+        "description": "Where the user create a new room by putting a room's name",
+        "url": "/rooms/new"
+      }
+    ],
+    "description": "Web app of q&a rooms from NLW5 rocket seat, with personal improvements.",
+    "screenshots": [
+      {
+        "src": "/images/screenshot1.png",
+        "type": "image/png",
+        "sizes": "540x720"
+      },
+      {
+        "src": "/images/screenshot2.png",
+        "type": "image/png",
+        "sizes": "540x720"
+      },
+      {
+        "src": "/images/screenshot3.png",
+        "type": "image/png",
+        "sizes": "540x720"
+      },
+      {
+        "src": "/images/screenshot4.png",
+        "type": "image/png",
+        "sizes": "540x720"
+      }
+    ]
+  }
