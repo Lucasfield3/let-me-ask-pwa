@@ -1,13 +1,7 @@
 {
     "short_name": "Letmeask",
-    "name": "Q&A web app with personal changes.",
+    "name": "Q&A web app .",
     "icons": [
-      {
-        "src": "/images/icons-192.png",
-        "type": "image/png",
-        "sizes": "192x192",
-        "purpose": "any maskable"
-      },
       {
         "src": "/images/icons-512.png",
         "type": "image/png",
